@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Stafford's ghost, or, A warning to traitors with his prophecie concerning the blazing star.</title>
+            <author>Ness, Christopher, 1621-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52814</idno>
+            <idno type="STC">Wing N458</idno>
+            <idno type="STC">ESTC R31712</idno>
+            <idno type="EEBO-CITATION">12246926</idno>
+            <idno type="OCLC">ocm 12246926</idno>
+            <idno type="VID">56979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Stafford's ghost, or, A warning to traitors with his prophecie concerning the blazing star.</title>
+                  <author>Ness, Christopher, 1621-1705.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Ness by Wing and NUC pre-1956 imprints.</note>
+                  <note>Woodcuts on t.p.: the ghost and the blazing star.</note>
+                  <note>Imperfect: print showthrough with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Poetry.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56979:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:56979:1"/>
+            <!-- PDF PAGE 13 -->
+            <p>THE <hi>Lord Staffords</hi> GHOST: OR, A Warning to TRAITORS, WITH His Propheſie Concerning the Blazing-Star.</p>
+            <figure/>
+            <figure/>
+            <p>Printed in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:56979:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>THE LORD Staffords Ghoſt, &amp;c.</head>
+            <l>FRom <hi>Stygian</hi> ſhades, lo, my pale Ghoſt doth riſe,</l>
+            <l>To viſit Earth, and theſe ſubluhar Skies;</l>
+            <l>For ſome few moments I'm in Mercy ſent,</l>
+            <l>To bid my Fellow-<hi>Traytors</hi> to <hi>Repent:</hi>
+            </l>
+            <l>Repent before you taſte of Horrid Fate,</l>
+            <l>Your Guilt confeſs, before it be too late.</l>
+            <l>I am not here arriv'd on Earth, to tell</l>
+            <l>The hidden ſecrets that belong to <hi>Hell:</hi>
+            </l>
+            <l>Not am I ſent to publiſh for declare,</l>
+            <l>Who are tormenters, whom tormented there.</l>
+            <l>For now I know that it is Heavens decree,</l>
+            <l>Theſe things to Mortals ſtill ſhall ſecrets be;</l>
+            <l>Who have fantaſtick Dreams, and nothing know,</l>
+            <l>Of what is done above, or yet below:</l>
+            <l>But I have ſeen with my immortal Eyes,</l>
+            <l>Things that with horror do my Soul ſurprize;</l>
+            <l>Too late alas, too late, I ſee my ſin,</l>
+            <l>With ſtrange <hi>Chymera's</hi> I've deluded been,</l>
+            <l>By a curs'd brood, who ſounded in my ear,</l>
+            <l>Dye obſtinate, no Chains of <hi>Conſcience</hi> fear,</l>
+            <l>Upon us firmly let your Faith be built,</l>
+            <l>We can and do Abſolve you from your Guilt;</l>
+            <l>And after this, you need no more Repent,</l>
+            <l>For you a <hi>Martyr</hi> dye, and <hi>Innocent,</hi>
+            </l>
+            <l>O curſed Men, who on Wretches thus intrude,</l>
+            <l>And thus poor ſouls, Eternally delude.</l>
+            <l>Whilſt they believe what theſe deluders ſay,</l>
+            <l>Life is ſnatch'd from them, and they drop away;</l>
+            <l>And falling down, by <hi>Charon</hi> Death they'r hurl'd</l>
+            <l>Into the <hi>Manſions</hi> of a diſmal World,</l>
+            <l>Where <hi>Conſcience</hi> ſtands, and ſtares them in the face,</l>
+            <l>Shewing a Table of Eternal Braſs,</l>
+            <l>In which in noted Characters are wrot</l>
+            <l>Their whole lifes crimes, which living they forgot,</l>
+            <l>With <hi>Conſcience</hi> theſe have an Eternal ſtrife,</l>
+            <l>And curſe the vain deluſive dreams of Life:</l>
+            <l>With torment now their crimes read o're and o're,</l>
+            <l>And wakeing, ſee they did but Dream before;</l>
+            <pb n="2" facs="tcp:56979:2"/>
+            <!-- PDF PAGE 14 -->
+            <l>Too late (and than too late what plague is worſe?</l>
+            <l>They ſee their folly, and themſelves they curſe;</l>
+            <l>They curſe themſelves, becauſe they did believe,</l>
+            <l>And doubly curſe thoſe who did them deceive.</l>
+            <l>When to the fatal Scaffold I was brought,</l>
+            <l>I ſaid and did what I was bid, and laught,</l>
+            <l>Tho' <hi>Conſcience</hi> ſaid, I did not what I ought.</l>
+            <l>Stoutly the Guilt; as I was bid, deny'd,</l>
+            <l>And for the <hi>Cauſe,</hi> I <hi>Romes</hi> great <hi>Martyr</hi> dy'd</l>
+            <l>I that Religion then eſteemed good,</l>
+            <l>And gladly would have ſeal'd it with my Blood,</l>
+            <l>Becauſe I then no better underſtood.</l>
+            <l>Let not the World to vain deluſions flye,</l>
+            <l>I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id for <hi>Treaſon,</hi> not <hi>Religion</hi> dye.</l>
+            <l>Tho' on the Scaffold I would not confeſs,</l>
+            <l>My Ghoſt, alas! too late, can do no leſs.</l>
+            <l>Let all Complotters warning take by me,</l>
+            <l>The World we may delude, but <hi>God</hi> doth ſee;</l>
+            <l>Tho' what we did ſhould never come to light,</l>
+            <l>It can't be hid from the Almighty's ſight:</l>
+            <l>Give God the Glory, and confeſs your Crime,</l>
+            <l>Confeſs your horrid <hi>Treaſon</hi> while you've time;</l>
+            <l>Publick Confeſſion ſhews you do Repent,</l>
+            <l>And is the beſt way to grow Innocent.</l>
+            <l>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e too late, I have been led aſtray,</l>
+            <l>And by <hi>Error,</hi> far from <hi>Truth,</hi> was led away;</l>
+            <l>For that <hi>Religion</hi> never can be good,</l>
+            <l>That would erect it ſelf by Humane Blood.</l>
+            <l>I pin'd my ſelf upon anothers ſleeve,</l>
+            <l>And blindly I did as the Church believe;</l>
+            <l>What my deluſive Guides did bid me do,</l>
+            <l>That I believ'd was <hi>Holy, Juſt,</hi> and <hi>True.</hi>
+            </l>
+            <l>With Zeal Facted, and hop'd for Applauſe,</l>
+            <l>Of Men and Heaven, in ſo good a <hi>Cauſe:</hi>
+            </l>
+            <l>But oh! I ſigh, and now my Airy <hi>Ghoſt,</hi>
+            </l>
+            <l>Shivers to think what Bleſſings I have loſt:</l>
+            <l>The broad way to Deſtruction then I took,</l>
+            <l>And Vertues Road my blinded Zeal miſtook.</l>
+            <l>But you my <hi>Friends,</hi> who yet are left behind,</l>
+            <l>Now to your ſelves, and to your Souls be kind.</l>
+            <l>Open her Eyes, and be no longer blind,</l>
+            <l>Pry my ſad End, do you your Errors find.</l>
+            <l>Confeſs your Crimes before it be too late,</l>
+            <l>Confeſs, confeſs, before you yield to Fate:</l>
+            <l>Before from Life, and from the World you go,</l>
+            <l>Before that you deſcend to Shades below,</l>
+            <l>Before your Souls taſte of Eternal Woe.</l>
+            <pb n="3" facs="tcp:56979:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <l>
+               <hi>Truth</hi> cannot Dye, it ſtronger is than Death,</l>
+            <l>Remains when Mortals have reſign'd their breath;</l>
+            <l>To amazed Souls with <hi>Conſcience</hi> ſhe appears,</l>
+            <l>To aggravate, and to increaſe their fears.</l>
+            <l>Confeſs her while you live, though drawn to Sin,</l>
+            <l>
+               <hi>Repentance</hi> with <hi>Confeſſion</hi> doth begin.</l>
+            <l>Believe no longer that Accurſed Brood,</l>
+            <l>Who on the Necks of Kings have proudly trod,</l>
+            <l>Nor him who thinks himſelf an Earthly God.</l>
+            <l>Thoſe <hi>Hectoring Jeſuits</hi> who ſo Zealous be,</l>
+            <l>Who think to Rule the world by Policy,</l>
+            <l>Who to the <hi>Gallows</hi> ſeem with joy to come,</l>
+            <l>To be the <hi>Martyrs,</hi> and the Saints of <hi>Rome.</hi>
+            </l>
+            <l>When Life is fled, and they are gone from hence,</l>
+            <l>In tumbling down are waked into Senſe;</l>
+            <l>Where all amaz'd, and wondring where they've bin,</l>
+            <l>They howl, and cry, and wiſh to Dye agin.</l>
+            <l>Beware I ſay, be fool'd no longer here,</l>
+            <l>For <hi>Rhadamanthus</hi> is a Judge ſevere.</l>
+            <l>Hark! I am call'd, I muſt deſcend below,</l>
+            <l>But let me <hi>Propheſie</hi> before I go:</l>
+            <l>See the bright Star which o're your heads doth ſhine,</l>
+            <l>I can as well as <hi>Gadbury</hi> Divine;</l>
+            <l>What the bright ſtream of Radient Light doth mean,</l>
+            <l>VVhich every Night ſo frequently is ſeen.</l>
+            <l>Hear me, O <hi>Rome,</hi> though in your Cauſe I dy'd,</l>
+            <l>Nigh is the ſetting of your Pomp and Pride:</l>
+            <l>That <hi>Star</hi> doth ſhew, that <hi>Day</hi> is neer at hand,</l>
+            <l>That <hi>Rome</hi> no longer ſhall the <hi>World</hi> command,</l>
+            <l>And many years it hath not now to ſtand.</l>
+            <l>By that bright ſtream, which ſtill points to the <hi>Eaſt,</hi>
+            </l>
+            <l>The <hi>Everlaſting Goſpel's</hi> Light's expreſt;</l>
+            <l>Which juſt is breaking forth, and doth beſpeak,</l>
+            <l>That its moſt Glorious Day's about to break:</l>
+            <l>VVhen <hi>Peace,</hi> and <hi>Truth,</hi> and <hi>Righteouſneſs</hi> ſhall ſtand,</l>
+            <l>Everlaſting Pillars ſet in every Land,</l>
+            <l>And <hi>Chriſt</hi> in Power alone the world command.</l>
+            <l>Then ſhall the <hi>World</hi> ſhine with Eternal Glory,</l>
+            <l>And I perhaps, may then leave <hi>PURGATORY.</hi>
+            </l>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:56979:3"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </body>
+   </text>
+</TEI>
